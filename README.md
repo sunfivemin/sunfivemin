@@ -54,5 +54,5 @@ https://sunfivemin.github.io/coding/
 </picture>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunfivemin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfivemin&layout=donut" />
 </a>
