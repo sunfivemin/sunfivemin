@@ -38,19 +38,18 @@ https://sunfivemin.github.io/coding/
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SunFive&bg_color=180,00000000,00000000&title_color=230c60&text_color=230c60"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunFive&layout=compact&bg_color=180,00000000,00000000&title_color=230c60&text_color=230c60"
-           /> 
-    </div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=junia3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?sunfivemin=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?sunfivemin=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?sunfivemin=anuraghazra&show_icons=true" />
+</picture>
+       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sunfivemin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     
