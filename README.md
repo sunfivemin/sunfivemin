@@ -54,5 +54,5 @@ https://sunfivemin.github.io/coding/
 </picture>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfivemin&layout=donut" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfivemin&layout=compact" />
 </a>
