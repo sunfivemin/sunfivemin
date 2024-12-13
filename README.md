@@ -56,4 +56,3 @@ https://sunfivemin.github.io/coding/
 <a href="https://github.com/anuraghazra/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunfivemin&layout=compact" />
 </a>
-<img src="https://github.com/sunfivemin/sunfivemin/blob/output/github-snake-dark.svg" width="100%">
