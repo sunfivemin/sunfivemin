@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=e7ddff&height=120&text=SunFive&animation=fadeIn&fontColor=6750a4&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Web Publisher </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Web Developer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 제가 가진 기술이 궁금하시다면 포트폴리오를 확인해 주세요! </div> 
                 <details>
 <summary>포트폴리오</summary>
