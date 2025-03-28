@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=e7ddff&height=120&text=SunFive&animation=fadeIn&fontColor=6750a4&fontSize=40" />
+   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SunFive&fontSize=70&color=0:6750a4,100:b678c4&stroke=222" />
 </p>
 
 ## 💼 Web Developer
