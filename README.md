@@ -12,7 +12,7 @@
 <details>
 <summary><strong>📁 포트폴리오 보기</strong></summary>
 
-[https://sunfivemin.github.io/coding/](https://sunfivemin.github.io/coding/)
+[https://sunfivemin.github.io/coding/](https://github.com/sunfivemin)
 
 </details>
 
