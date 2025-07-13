@@ -10,7 +10,8 @@ UX를 고려하며, 기록과 반복을 통해 성장하는
 프론트엔드 개발자 **SunFive**입니다.
 
 🖥 퍼블리셔에서 최신 프론트엔드 스택까지 확장하며 다양한 UI 프로젝트를 경험해왔습니다.  
-📌 실제 작업물은 포트폴리오에서 확인하실 수 있어요 👉 [Portfolio 바로가기](https://sunfivemin.github.io/coding/)
+📌 실제 작업물은 포트폴리오에서 확인하실 수 있어요
+👉 [Portfolio 바로가기](https://sunfivemin.github.io/coding/)
 
 ---
 
@@ -66,7 +67,7 @@ UX를 고려하며, 기록과 반복을 통해 성장하는
   <a href="https://seonohblog.netlify.app/" target="_blank" rel="noopener noreferrer" tabindex="-1">
     <img src="https://img.shields.io/badge/-Blog-00C7AE?style=flat&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/sunfive" target="_blank" rel="noopener noreferrer" tabindex="-1">
+  <a href="https://github.com/sunfivemin" target="_blank" rel="noopener noreferrer" tabindex="-1">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://sunfivemin.github.io/coding/" target="_blank" rel="noopener noreferrer" tabindex="-1">
